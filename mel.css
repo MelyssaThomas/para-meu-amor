@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#fontes{
+    font-style: italic;
+    text-align: center;
+}
+#p{
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+#color{
+    background-color: #ffffff9d;
+    display: grid;
+    justify-content: center;
+}
+#center{
+    display: grid;
+    justify-content: center;
+}
+ul{
+    text-align: center;
+}
+#formulario{
+    display: grid;
+    justify-content: center;
+}
+body{
+    background-image: url(https://dbdzm869oupei.cloudfront.net/img/sticker/preview/37749.png);
+    background-size: 1500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#inscricoes{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+input{
+    margin-bottom: 12px;
+}
+footer{
+    display: grid;
+    justify-content: center;
+}
